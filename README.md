@@ -1,7 +1,7 @@
 # resume
 My Awesome CV
 
-CV[link](https://github.com/mvillasono/resume/blob/main/src/resume.pdf){:target="_blank"}
+Based on Yaac Another Awesome CV template [go](https://github.com/darwiin/yaac-another-awesome-cv){:target="_blank" rel="noopener"}. 
 
  ¡Por favor, no use mi currículum sin mi permiso!
 Please don't use my resume without my permission! 
