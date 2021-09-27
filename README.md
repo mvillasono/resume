@@ -1,4 +1,7 @@
 # resume
+
+[Mi CV](https://github.com/darwiin/yaac-another-awesome-cv) 
+
 My Awesome CV
 
 Based on [yaac-another-awesome CV template](https://github.com/darwiin/yaac-another-awesome-cv) 
